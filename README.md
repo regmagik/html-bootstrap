@@ -1,0 +1,2 @@
+# www-regmagik
+RegmagiK website
