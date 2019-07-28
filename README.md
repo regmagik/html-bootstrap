@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Sample Pages
+
+This is a prototype of [simple web site functionality](https://github.com/regmagik/www-regmagik/edit/master/README.md) for credit freeze.
 
 You can use the [editor on GitHub](https://github.com/regmagik/www-regmagik/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
