@@ -1,8 +1,8 @@
 ## Welcome to Sample Pages
 
-This is a prototype of [simple web site functionality](https://regmagik.github.io/www-regmagik/credit-freeze/bootstrap-options.html) for credit freeze.
+This is a prototype of [simple web site functionality](https://regmagik.github.io/html-bootstrap/credit-freeze/bootstrap-options.html) for credit freeze.
 
-You can use the [editor on GitHub](https://github.com/regmagik/www-regmagik/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/regmagik/html-bootstrap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
